@@ -1,0 +1,11 @@
+{
+  "name": "crm-leasd-social",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "dev": "node backend/src/server.js",
+    "test": "node --test"
+  }
+}
